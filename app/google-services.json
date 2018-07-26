@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "211880001169",
+    "firebase_url": "https://school-e6500.firebaseio.com",
+    "project_id": "school-e6500",
+    "storage_bucket": "school-e6500.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211880001169:android:89a14bcabf0a6e14",
+        "android_client_info": {
+          "package_name": "com.example.emobilis.pid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211880001169-snh495fd79ge42mjlbqp6ti1gdkaa0f0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emobilis.pid",
+            "certificate_hash": "5d0593eb2df45ff743ce73de4b69893770f698cc"
+          }
+        },
+        {
+          "client_id": "211880001169-e3ooon6qnpefd0pokdvabpki7i66h620.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE2HWKtNZL5qkRNrvNbfZYGEa6rQ4xCNA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211880001169-e3ooon6qnpefd0pokdvabpki7i66h620.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
